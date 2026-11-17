@@ -1,5 +1,11 @@
 # BTC Race Bot — btc-race-24h-20261117-0603
 
+[![make.fun](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/Herman-234/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/Herman-234/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+
+Entry for the make.fun bounty: https://make.fun/bounty/btc-race-24h-20261117-0603
+
 A long-only cbBTC/USDC trading bot for make.fun's 24-hour paper-money race
 (`main.py`, Python 3.13, standard library only; the wire protocol is spoken by
 the vendored `vendor/makefun_bars.py`, a byte-identical copy of the kit SDK).
